@@ -108,8 +108,8 @@ Through this project, we gained a deeper understanding of:
 
 ## Team Information
 
-- [Avinav Kashyap](Fullstack-developer)
-- [Vishal Kumar](Fullstack-developer)
+- [Avinav Kashyap][Fullstack-developer]
+- [Vishal Kumar][Fullstack-developer]
 
 ---Both of us worked on frontend  and backend of this app.From beginning to deployment we both invested ou effort and energy.Hope that this app makes an impact in Science field.
 
