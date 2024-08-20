@@ -38,6 +38,42 @@ Our system aims to reduce medical errors—a major cause of death and poor healt
 - Framer Motion
 - Firebase
 
+## Setup and Installation
+
+To set up and run this project locally, follow these steps:
+
+1. *Clone the repository*:
+
+   bash
+   git clone https://github.com/colemmorgan/Medihacks2024
+   cd Medihacks2024
+   
+
+2. *Install dependencies*:
+
+   bash
+   npm install
+   
+
+3. *Set up Firebase*:
+
+   - Create a Firebase project.
+   - Set up Firestore and Authentication.
+   - Replace the Firebase config in the project with your Firebase project credentials.
+
+4. *Configure Environment Variable*
+
+   - The set of environment variables to configure has been provided in .env.example at the root of this project
+
+5. *Run the development server*:
+
+   bash
+   npm run dev
+   
+
+6. *Open the app*:
+   - Open your browser and navigate to http://localhost:5173.
+
 
 ## Inspiration
 
@@ -67,3 +103,12 @@ Through this project, we gained a deeper understanding of:
 - *Community Features*: Introduce forums and discussion boards for peer-to-peer learning.
 - *Advanced Analytics*: Provide detailed analytics and insights to help users track their learning progress more effectively.
 - *Mobile App*: Develop a mobile version of the app for on-the-go learning.
+
+## Team Information
+
+- [Avinav Kashyap](Fullstack-developer)
+- [Cole Morgan](Fullstack-developer)
+
+---Both of us worked on frontend  and backend of this app.From beginning to deployment we both invested ou effort and energy.Hope that this app makes an impact in Science field.
+
+
