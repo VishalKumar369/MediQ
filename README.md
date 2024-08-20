@@ -9,10 +9,12 @@ Welcome to MediQuiz! This web app is built to transform continuous medical educa
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
 - [Inspiration](#inspiration)
 - [What We Learned](#what-we-learned)
 - [Challenges Faced](#challenges-faced)
 - [Future Improvements](#future-improvements)
+- [Team information](#Team information)
 
 ## Introduction
 
