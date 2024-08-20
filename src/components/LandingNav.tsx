@@ -7,7 +7,6 @@ import { PiSignOut } from "react-icons/pi";
 import { useRecoilState } from "recoil";
 import { userDataAtom } from "../atoms/user-data-atoms";
 import { IoMdMenu, IoIosCloseCircle } from "react-icons/io";
-import { color } from "framer-motion";
 
 export const LandingNav = () => {
   const [user] = useAuthState(auth);
