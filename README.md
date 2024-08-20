@@ -2,7 +2,7 @@
 
 Welcome to MediQuiz! This web app is built to transform continuous medical education by offering a micro-credentialing system that encourages ongoing learning and hands-on practice for front-line medical professionals.
 
-[Live Demo]()
+[Live Demo](https://medi-quizz.vercel.app/)
 
 ## Table of Contents
 
