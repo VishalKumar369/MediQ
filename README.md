@@ -1,1 +1,1 @@
-# MediQ
+# MediQuizz
