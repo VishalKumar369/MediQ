@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f8f8;
+  color: #242424;
+  font-family: "trap-medium", sans-serif;
+  overflow-x: hidden;
+}
+
+
+@font-face {
+  font-family: "trap-black";
+  src: url("/fonts/trap-black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "trap-bold";
+  src: url("/fonts/trap-bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "trap-semibold";
+  src: url("/fonts/trap-semibold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "trap-medium";
+  src: url("/fonts/trap-medium.otf") format("opentype");
+}
+
+.black {
+  font-family: "trap-black", sans-serif;
+  line-height: 1;
+}
+
+.bold {
+  font-family: "trap-bold", sans-serif;
+  line-height: 1;
+}
+
+.semibold {
+  font-family: "trap-semibold", sans-serif;
+  line-height: 1.2 !important;
+}
+
+.box {
+  box-shadow: rgba(145, 149, 246,0.3) 0px 5px 14px 0px;
+}
+
+/* card */
+
+.flip-card {
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: rgba(145, 149, 246,0.3) 0px 4px 16px 0px;
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+}
+
+/*  */
+
+.notepack-link:hover {
+  box-shadow: rgba(145, 149, 246,0.3) 0px 5px 14px 0px;
+}
